@@ -1,6 +1,5 @@
 <h2>🛰️ Hey there, I'm Martin Sg</h2>
 <p>I'm a software developer interested in web apps, web development, security topics, µ, IoT devices, and ethical hacking.</p>
-<p><a href="https://www.coursera.org/user/ec70f5a62d08658bc17985ef46516dc1"><img src="https://img.shields.io/badge/-Martin Sg-0056d2?style=flat-square&amp;labelColor=0056d2&amp;logo=Coursera&amp;link=https://www.coursera.org/user/ec70f5a62d08658bc17985ef46516dc1" alt="Cousera Badge"></a> <a href="https://profile.edx.org/u/martinst_"><img src="https://img.shields.io/badge/-Martin Sg-00262b?style=flat-square&amp;labelColor=00262b&amp;logo=edx&amp;link=https://profile.edx.org/u/martinst_" alt="eDx Badge"></a> <a href="https://www.hackerrank.com/martinsgmx"><img src="https://img.shields.io/badge/-@martinsgmx-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=hackerrank&amp;link=https://www.hackerrank.com/martinsgmx/" alt="HackerRank Badge"></a> <a href="https://www.linkedin.com/in/martinsgmx"><img src="https://img.shields.io/badge/-Martin Sg-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/martinsgmx/" alt="LinkedIn Badge"></a></p>
 <img align="right" src="https://media1.giphy.com/media/aDgHUvUC5oGoU/giphy.gif" width="250"/>
 <h2>👨‍🚀 About me</h2>
 <ul>
